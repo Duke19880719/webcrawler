@@ -1,0 +1,6 @@
+framework module Pods_webcrawlerUITests {
+  umbrella header "Pods-webcrawlerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

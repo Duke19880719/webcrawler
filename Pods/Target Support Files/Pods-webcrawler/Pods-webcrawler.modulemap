@@ -1,0 +1,6 @@
+framework module Pods_webcrawler {
+  umbrella header "Pods-webcrawler-umbrella.h"
+
+  export *
+  module * { export * }
+}
